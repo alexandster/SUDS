@@ -14,6 +14,7 @@ Sources for case-control point data:
 * Sudden oak death in California: https://uofu.box.com/s/cub4wje4109q3xuxc3mosnnafnce3reh
 * NYPD shooting incidents: https://s.cnmilf.com/user74170196/https/catalog.data.gov/dataset/nypd-shooting-incident-data-historic
 * SLC public art: https://services.arcgis.com/mMBpeYj0vPFotzbe/ArcGIS/rest/services/Public_Art/FeatureServer/0
-* SLC places of worship: https://services.arcgis.com/mMBpeYj0vPFotzbe/ArcGIS/rest/services/Place_of_Worship/FeatureServer/0 
+* SLC places of worship: https://services.arcgis.com/mMBpeYj0vPFotzbe/ArcGIS/rest/services/Place_of_Worship/FeatureServer/0
+* HV: https://github.com/alexandster/SPARR-HV 
 
 
