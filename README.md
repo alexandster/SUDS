@@ -11,6 +11,8 @@ Sources for case-control point data:
 
 * Denver hate crime: https://drive.google.com/drive/folders/1eNia-n7yV_eiTKJs_XrNVb6ufji64r4o?usp=drive_link
 * Adverse tweets in the contiguous US: https://uofu.box.com/s/cub4wje4109q3xuxc3mosnnafnce3reh
-* Sudden Oak Death in California: https://uofu.box.com/s/cub4wje4109q3xuxc3mosnnafnce3reh
+* Sudden oak death in California: https://uofu.box.com/s/cub4wje4109q3xuxc3mosnnafnce3reh
+* NYPD shooting incidents: https://s.cnmilf.com/user74170196/https/catalog.data.gov/dataset/nypd-shooting-incident-data-historic
+* 
 
 
