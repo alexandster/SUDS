@@ -13,6 +13,7 @@ Sources for case-control point data:
 * Adverse tweets in the contiguous US: https://uofu.box.com/s/cub4wje4109q3xuxc3mosnnafnce3reh
 * Sudden oak death in California: https://uofu.box.com/s/cub4wje4109q3xuxc3mosnnafnce3reh
 * NYPD shooting incidents: https://s.cnmilf.com/user74170196/https/catalog.data.gov/dataset/nypd-shooting-incident-data-historic
-* SLC Public Art: https://services.arcgis.com/mMBpeYj0vPFotzbe/ArcGIS/rest/services/Public_Art/FeatureServer/0
+* SLC public art: https://services.arcgis.com/mMBpeYj0vPFotzbe/ArcGIS/rest/services/Public_Art/FeatureServer/0
+* SLC places of worship: https://services.arcgis.com/mMBpeYj0vPFotzbe/ArcGIS/rest/services/Place_of_Worship/FeatureServer/0 
 
 
