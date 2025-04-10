@@ -1,6 +1,8 @@
 # SUDS
 Repository for Spatial Utah Data Science (SUDS) discussion group-related things
 
+Spatial Relative Risk Function (SPARR) slides: https://github.com/alexandster/SUDS/blob/main/SUDS%20Workshop%2020250409.pdf
+
 Code repositories:
 
 * Lyme disease in Baltimore County, MD: https://github.com/alexandster/SPARR-Lyme
@@ -15,6 +17,7 @@ Sources for case-control point data:
 * NYPD shooting incidents: https://s.cnmilf.com/user74170196/https/catalog.data.gov/dataset/nypd-shooting-incident-data-historic
 * SLC public art: https://services.arcgis.com/mMBpeYj0vPFotzbe/ArcGIS/rest/services/Public_Art/FeatureServer/0
 * SLC places of worship: https://services.arcgis.com/mMBpeYj0vPFotzbe/ArcGIS/rest/services/Place_of_Worship/FeatureServer/0
-* HV: https://github.com/alexandster/SPARR-HV 
+* HV: https://github.com/alexandster/SPARR-HV
+  
 
 
